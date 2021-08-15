@@ -1,5 +1,5 @@
 ## Getting and Cleaning Data final assignment - BMenashe
-
+library(dplyr)
 
 ## load the data and merge into one big data frame
 # get list of features
